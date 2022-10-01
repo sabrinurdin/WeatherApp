@@ -6,6 +6,7 @@ Aplikasi WeatherApp dengan menggunakan design pattern MVVN
 - [Kotlin](https://kotlinlang.org/) based, [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) for asynchronous.
 - [Hilt](https://dagger.dev/hilt/) for dependency injection.
 - [Glide](https://github.com/bumptech/glide) Loading images from network.
+- [Android Jetpack Navigation ](https://developer.android.com/guide/navigation?gclid=Cj0KCQjwyt-ZBhCNARIsAKH1176SRpBzWvZSeh4qdkDYdDx8qAEcuJTOtfZrGoOryTHptliRitMhl8caApbPEALw_wcB&gclsrc=aw.ds) Loading images from network.
 - Jetpack
     - Lifecycle - Observe Android lifecycles and handle UI states upon the lifecycle changes.
     - ViewModel - Manages UI-related data holder and lifecycle aware. Allows data to survive configuration changes such as screen rotations.
