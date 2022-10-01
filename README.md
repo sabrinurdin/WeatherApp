@@ -13,8 +13,6 @@ Applikasi Online Course dengan menggunakan desig pattern MVVN
     - Room Persistence - Constructs Database by providing an abstraction layer over SQLite to allow fluent database access.
 - Architecture
     - MVVM Architecture (View - DataBinding - ViewModel - Model)
-# Mad Score
-![summary](https://github.com/sabrinurdin/OnlineCourseMVVN/blob/master/documentation/summary.png)
-![kotlin](https://github.com/sabrinurdin/OnlineCourseMVVN/blob/master/documentation/kotlin.png)
+
 # Architecture
 WeatherApp didasarkan pada arsitektur MVVM dan pola Repositori.
