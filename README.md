@@ -1,5 +1,5 @@
-# OnlineCourseMVVN
-Applikasi Online Course dengan menggunakan desig pattern MVVN
+# WeatherApp
+Applikasi WeatherApp dengan menggunakan desig pattern MVVN
 <img src="/preview/weatherapp.gif" align="right" width="32%"/>
 # Teknologi
 - [Retrofit2 & OkHttp3](https://github.com/square/retrofit) - Construct the REST APIs.
