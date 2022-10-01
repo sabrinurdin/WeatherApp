@@ -1,5 +1,5 @@
 # WeatherApp
-Applikasi WeatherApp dengan menggunakan desig pattern MVVN
+Applikasi WeatherApp dengan menggunakan desigN pattern MVVN
 <img src="/preview/weatherapp.gif" align="right" width="32%"/>
 # Teknologi
 - [Retrofit2 & OkHttp3](https://github.com/square/retrofit) - Construct the REST APIs.
